@@ -2,10 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/cecilieesj/ProjectB.git/categories/</loc>
+    <loc>https://cecilieesj.github.io/ProjectB/posts/my-first-post1/</loc>
+    <lastmod>2021-04-27T10:15:22+02:00</lastmod>
   </url><url>
-    <loc>https://github.com/cecilieesj/ProjectB.git/</loc>
+    <loc>https://cecilieesj.github.io/ProjectB/</loc>
+    <lastmod>2021-04-27T10:15:22+02:00</lastmod>
   </url><url>
-    <loc>https://github.com/cecilieesj/ProjectB.git/tags/</loc>
+    <loc>https://cecilieesj.github.io/ProjectB/posts/</loc>
+    <lastmod>2021-04-27T10:15:22+02:00</lastmod>
+  </url><url>
+    <loc>https://cecilieesj.github.io/ProjectB/categories/</loc>
+  </url><url>
+    <loc>https://cecilieesj.github.io/ProjectB/tags/</loc>
   </url>
 </urlset>
